@@ -1,0 +1,23 @@
+There are 5 emails to read.
+Next email:
+Sender: Boss
+Subject: Board meeting
+Date: 01-01-2024
+Next email:
+Sender: Subordinate
+Subject: Status report
+Date: 03-10-2025
+Next email:
+Sender: Peer
+Subject: Team update
+Date: 06-15-2025
+Next email:
+Sender: ImportantPerson
+Subject: Invitation
+Date: 11-20-2026
+Next email:
+Sender: OtherPerson
+Subject: Product offer
+Date: 12-31-2026
+There are 0 emails to read.
+No emails to read.

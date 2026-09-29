@@ -1,0 +1,18 @@
+EMAIL OtherPerson,Product offer,12-31-2026
+EMAIL Peer,Team update,06-15-2025
+EMAIL Boss,Board meeting,01-01-2024
+EMAIL ImportantPerson,Invitation,11-20-2026
+EMAIL Subordinate,Status report,03-10-2025
+COUNT
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+COUNT
+NEXT

@@ -1,0 +1,18 @@
+There are 4 emails to read.
+Next email:
+Sender: Peer
+Subject: Newest day
+Date: 02-02-2025
+Next email:
+Sender: Peer
+Subject: New month
+Date: 02-01-2025
+Next email:
+Sender: Peer
+Subject: New year
+Date: 01-01-2025
+Next email:
+Sender: Peer
+Subject: Old year
+Date: 12-31-2024
+There are 0 emails to read.

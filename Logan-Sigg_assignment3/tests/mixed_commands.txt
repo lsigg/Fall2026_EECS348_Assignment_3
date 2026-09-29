@@ -1,0 +1,16 @@
+EMAIL OtherPerson,Re: Try our product,01-19-2025
+NEXT
+NEXT
+COUNT
+EMAIL Boss,Urgent review,01-01-2025
+NEXT
+READ
+COUNT
+NEXT
+READ
+COUNT
+NEXT
+EMAIL Peer,Inbox refilled,03-15-2025
+NEXT
+READ
+COUNT
